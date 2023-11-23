@@ -1,0 +1,15 @@
+/* 
+  stringDescription.strings
+  iOS_lab
+
+  Created by Effective Devices on 23.11.2023.
+  
+*/
+"welcome_message" = "Hi, ";
+"hello" = "Hello,";
+"drsyahir" = "Dr. Imran Syahir";
+"generaldoctor"="General Doctor";
+"dayJune" = "Sunday, 12 June";
+"timeJune" = "11:00 - 12:00 AM";
+"searchText"="Search doctor or health issue";
+"Near" = "Near Doctor";
